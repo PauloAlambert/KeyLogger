@@ -2,7 +2,7 @@
 Sistem de KeyLogger local rapido e eficaz
 
 Como executar:
-1- Baixe (caso nao tenha o pythom)
+1- Baixe o python (caso nao tenha o pythom) https://www.python.org/downloads/windows/
 2- va no cmd e coloque pip install keyboard
 3- vai no 'C:' do seu computador e crie uma pasta chamada log
 4- dentro da pasta crie um doucumento de texto chamado log tambem
